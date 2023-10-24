@@ -1,0 +1,150 @@
+body {
+
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;  
+  width: 1024px;
+  height: 790px;
+  margin: 0 auto;
+  
+
+
+}
+
+
+#main img{
+
+  margin: 0 auto 32px;
+
+}
+
+#main {
+
+  width: 626px;
+  height: 486px;
+  margin: 64px auto;
+  
+  
+
+}
+
+h1 {
+
+  width: 494px;
+  height: 40px;
+  color: #3F3D56;
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 0 auto 16px;
+
+}
+
+
+h1 span {
+
+  color: #EE24FF;
+  font-family: Dosis;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+
+}
+
+
+p {
+
+
+  width:540px;
+  height: 107px;
+  color: #828282;  
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px; /* 146.667% */
+  margin: 0 auto 32px;
+  text-align: center;
+
+
+
+}
+
+p strong {
+
+  color: #3F3D56;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+
+}
+
+p + p {
+
+  width: 626px;
+  height: 21px;
+  margin: 0 auto 64px;
+
+}
+
+#line {
+  
+  width: 391px;
+  height: 0;
+  border: solid 1px #ECEFF2;
+  margin: 0 auto 16px;
+
+}
+
+#brand{
+
+  color: #828282;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+
+
+}
+
+
+a{
+
+
+  color: #3F3D56;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 147.682%; /* 22.152px */
+  
+
+}
+
+a + a {
+
+  margin-left: 42px;
+
+}
+
+#footer  {
+
+  width: 1024px;
+  height: auto;
+}
+
+#wave {
+
+  position: relative;
+  bottom: 0;
+  right: 0;
+  margin-top: 32px;
+
+}
